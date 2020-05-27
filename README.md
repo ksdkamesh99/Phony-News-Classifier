@@ -13,3 +13,6 @@ Phony News Classifier is a repository which contains analysis of a Natural Langu
 
 
 
+
+## 📜 LICENSE
+[MIT](https://github.com/ksdkamesh99/Phony-News-Classifier/blob/master/LICENSE)
