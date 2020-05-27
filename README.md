@@ -14,7 +14,7 @@ Phony News Classifier is a repository which contains analysis of a Natural Langu
 ## ✔Accuracy With Multinomial Naive Bayes✔:-
 | Text Preprocessing Type              | Multinomial NB      |
 |--------------------------------------|---------------------|
-| TFIDF Vectorizer + PorterStemmer     | %              |
+| TFIDF Vectorizer + PorterStemmer     | 92.98%              |
 | CountVectorizer + PorterStemmer      | 93.18%              |
 | CountVectorizer + WordnetLemmatizer  | %              | 
 | TFIDF Vectorizer + WordnetLemmatizer | %              |
