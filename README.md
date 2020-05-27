@@ -15,7 +15,7 @@ Phony News Classifier is a repository which contains analysis of a Natural Langu
 | Text Preprocessing Type              | Multinomial NB      |
 |--------------------------------------|---------------------|
 | TFIDF Vectorizer + PorterStemmer     | %              |
-| CountVectorizer + PorterStemmer      | %              |
+| CountVectorizer + PorterStemmer      | 93.18%              |
 | CountVectorizer + WordnetLemmatizer  | %              | 
 | TFIDF Vectorizer + WordnetLemmatizer | %              |
 
