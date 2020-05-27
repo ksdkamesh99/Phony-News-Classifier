@@ -17,7 +17,7 @@ Phony News Classifier is a repository which contains analysis of a Natural Langu
 | TFIDF Vectorizer + PorterStemmer     | 92.98%              |
 | CountVectorizer + PorterStemmer      | 93.18%              |
 | CountVectorizer + WordnetLemmatizer  | 93.22%              | 
-| TFIDF Vectorizer + WordnetLemmatizer | %              |
+| TFIDF Vectorizer + WordnetLemmatizer | 93.12%              |
 
 ## 🏁 Datasets Used:-
 * The dataset used is Fakenews Classification Dataset published by Jair Ribeiro.This dataset is downloaded in kaggle.You can download it [here](https://www.kaggle.com/liberoliber/onion-notonion-datasets/download).
